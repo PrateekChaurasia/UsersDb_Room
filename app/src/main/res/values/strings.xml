@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DevxRoom</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterMobileNumber">Enter Mobile Number</string>
+    <string name="enterValidMobileNumber">Enter valid 10 digit mobile number</string>
+    <string name="addUser">Add User</string>
+
+    <string name="edit_record_title">Edit Record</string>
+    <string name="add_record_title">Add Record</string>
+
+    <string name="error_save_record">Error with saving record</string>
+    <string name="save_record">Record saved</string>
+
+    <string name="error_update_record">Error with updating record</string>
+    <string name="update_record">Record updated</string>
+
+    <string name="error_delete_record">Error with deleting record</string>
+    <string name="delete_record">Record deleted</string>
+    <string name="noRecordsFound">No Records Found</string>
+    <string name="selectBook">Select Book</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="userRecordDeleted">User record deleted</string>
+    <string name="recordUpdated">Record Updated</string>
+    <string name="recordSaved">Record saved</string>
+
+    <string-array name="book_name">
+        <item>Select Book</item>
+        <item>Book A</item>
+        <item>Book B</item>
+        <item>Book C</item>
+    </string-array>
+</resources>
